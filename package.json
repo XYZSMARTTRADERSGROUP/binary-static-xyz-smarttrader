@@ -126,7 +126,7 @@
     "js-cookie": "2.2.0",
     "kinetic": "5.2.0",
     "moment": "^2.29.4",
-    "onfido-sdk-ui": "^6.7.2",
+    "onfido-sdk-ui": "^14.38.0",
     "promise-polyfill": "6.1.0",
     "prop-types": "^15.8.1",
     "react": "16.8.6",
